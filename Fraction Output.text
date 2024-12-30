@@ -1,0 +1,95 @@
+OUTPUT 1:
+
+Menu:
+1. Enter your own fractions and perform operations
+2. Exit
+Enter your choice: 1
+Enter the numerator and denominator for the first fraction: 12 -2
+Enter the numerator and denominator for the second fraction: 4 0
+Invalid input: Denominator cannot be zero.
+
+Menu:
+1. Enter your own fractions and perform operations
+2. Exit
+Enter your choice: 12 -2
+Invalid input. Please enter a number between 1 and 2: 1
+Enter the numerator and denominator for the first fraction: 12 -2
+Enter the numerator and denominator for the second fraction: 14 -3
+First Fraction: -6/1
+Second Fraction: -14/3
+Enter an operation (+, -, *, /) to perform on these fractions: +
+Result of addition: -32/3
+
+Menu:
+1. Enter your own fractions and perform operations
+2. Exit
+Enter your choice: 2
+Exiting the program.
+
+Process finished with exit code 0
+
+
+OUTPUT 2:
+
+Menu:
+1. Enter your own fractions and perform operations
+2. Exit
+Enter your choice: 1
+Enter the numerator and denominator for the first fraction: 34 55
+Enter the numerator and denominator for the second fraction: 66 22
+First Fraction: 34/55
+Second Fraction: 3/1
+Enter an operation (+, -, *, /) to perform on these fractions: /
+Result of division: 34/165
+
+Menu:
+1. Enter your own fractions and perform operations
+2. Exit
+Enter your choice: 2
+Exiting the program.
+
+Process finished with exit code 0
+
+
+OUTPUT 3:
+/Users/iris/Desktop/fraction-class-ThaoHuynh94/cmake-build-debug/Fractions_Driver
+
+Menu:
+1. Enter your own fractions and perform operations
+2. Exit
+Enter your choice: 1
+Enter the numerator and denominator for the first fraction: 12 0
+Invalid input: Denominator cannot be zero.
+
+Menu:
+1. Enter your own fractions and perform operations
+2. Exit
+Enter your choice: 1
+Enter the numerator and denominator for the first fraction: 13 3
+Enter the numerator and denominator for the second fraction: 14 2
+First Fraction: 13/3
+Second Fraction: 7/1
+Enter an operation (+, -, *, /) to perform on these fractions: /
+Result of division: 13/21
+
+Menu:
+1. Enter your own fractions and perform operations
+2. Exit
+Enter your choice: 1
+Enter the numerator and denominator for the first fraction: 14 4
+Enter the numerator and denominator for the second fraction: 36 2
+First Fraction: 7/2
+Second Fraction: 18/1
+Enter an operation (+, -, *, /) to perform on these fractions: -
+Result of subtraction: -29/2
+
+Menu:
+1. Enter your own fractions and perform operations
+2. Exit
+Enter your choice: 2
+Exiting the program.
+
+
+
+
+
